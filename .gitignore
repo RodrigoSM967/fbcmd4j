@@ -1,0 +1,10 @@
+# Archivos compilados
+*.class
+
+# Archivos temporales
+*.swp
+
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+out/
