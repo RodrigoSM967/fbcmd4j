@@ -10,7 +10,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite ges
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/fbcmd4j.git
+   git clone https://github.com/RodrigoSM967/fbcmd4j.git
    cd fbcmd4j
    ```
 Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, NetBeans, etc.).
